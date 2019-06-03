@@ -1,0 +1,27 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "Заготовка для Cookbook'ов",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "./node_modules/.bin/gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanStark/cookbook.git"
+  },
+  "keywords": [
+    "gitbook",
+    "cookboot"
+  ],
+  "author": "Nathan Stark <git@starlabs.su>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanStark/cookbook/issues"
+  },
+  "homepage": "https://github.com/NathanStark/cookbook#readme"
+}
